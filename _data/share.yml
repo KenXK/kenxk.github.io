@@ -2,27 +2,38 @@
 #  Icons from <https://fontawesome.com/>
 
 platforms:
-  - type: Twitter
-    icon: "fa-brands fa-square-x-twitter"
-    link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
 
-  - type: Facebook
-    icon: "fab fa-facebook-square"
-    link: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"
+  - type: Weibo
+    icon: "fab fa-weibo"
+    link: "https://service.weibo.com/share/share.php?title=TITLE&url=URL"
 
-  - type: Telegram
-    icon: "fab fa-telegram"
-    link: "https://t.me/share/url?url=URL&text=TITLE"
+  # QQ好友
+  - type: QQ好友
+    icon: "fa-brands fa-qq"
+    link: "https://connect.qq.com/widget/shareqq/index.html?title=TITLE&url=URL"
 
+  # 知乎
+  - type: 知乎
+    icon: "fa-brands fa-zhihu"
+    link: "https://www.zhihu.com/pin/create?title=TITLE&url=URL"
+    
   # Uncomment below if you need to.
   #
+  # - type: Twitter
+  #   icon: "fa-brands fa-square-x-twitter"
+  #   link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
+
+  # - type: Facebook
+  #   icon: "fab fa-facebook-square"
+  #   link: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"
+
+  # - type: Telegram
+  #   icon: "fab fa-telegram"
+  #   link: "https://t.me/share/url?url=URL&text=TITLE"
+  # 
   # - type: Linkedin
   #   icon: "fab fa-linkedin"
   #   link: "https://www.linkedin.com/feed/?shareActive=true&shareUrl=URL"
-  #
-  # - type: Weibo
-  #   icon: "fab fa-weibo"
-  #   link: "https://service.weibo.com/share/share.php?title=TITLE&url=URL"
   #
   # - type: Mastodon
   #   icon: "fa-brands fa-mastodon"

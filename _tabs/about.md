@@ -39,7 +39,7 @@ order: 4
 
 纯爱。母单。
 
- 友情链接：https://jandan.net 、https://appinn.com 、公众号“a 95's Post Life”
+ 友情链接：[jandan.net](https://jandan.net) 、[appinn.com](https://appinn.com) 、公众号“a 95's Post Life”
 
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }

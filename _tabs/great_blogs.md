@@ -1,5 +1,6 @@
 ---
 # the default layout is 'page'
+layout: post
 title: 大佬博客
 permalink: /great_blogs/
 date: 2026-07-16 18:42:40 +0800 # YYYY-MM-DD HH:MM:SS +0800

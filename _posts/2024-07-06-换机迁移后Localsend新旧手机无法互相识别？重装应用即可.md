@@ -1,5 +1,5 @@
 ---
-title: 换机迁移后Localsend新旧手机无法互相识别？ # 在线VS Code可以看到Front Matter是否能被正确解析
+title: 换机迁移后Localsend新旧手机无法互相识别？重装应用即可 # 在线VS Code可以看到Front Matter是否能被正确解析
 date: 2024-07-06 11:40:00 +0800 # YYYY-MM-DD HH:MM:SS +0800
 categories: [技术博客, 手机] # 可以加三级目录名，但分类那个页面只会显示到二级
 tags: [Localsend,手机换机迁移]     # TAG names should always be lowercase，但我用标签大写也能正常显示

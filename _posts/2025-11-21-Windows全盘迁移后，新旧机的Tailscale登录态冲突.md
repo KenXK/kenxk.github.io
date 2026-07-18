@@ -8,7 +8,7 @@ tags: [Windows,系统迁移,Tailscale]     # TAG names should always be lowercas
 >事情实际大概发生在2025年11月21日前后，于2026年7月18日回忆写下。
 {: .prompt-info }
 
-此事早有记载：
+此事早有记载：[换机迁移后Localsend新旧手机无法互相识别？重装应用即可 | KenXK](https://kenxk.github.io/posts/%E6%8D%A2%E6%9C%BA%E8%BF%81%E7%A7%BB%E5%90%8ELocalsend%E6%96%B0%E6%97%A7%E6%89%8B%E6%9C%BA%E6%97%A0%E6%B3%95%E4%BA%92%E7%9B%B8%E8%AF%86%E5%88%AB-%E9%87%8D%E8%A3%85%E5%BA%94%E7%94%A8%E5%8D%B3%E5%8F%AF/)
 
 具体情景就是用Dism++把整个系统分区备份，在新机子上还原出来。然后发现新旧电脑上的Tailscale只能登录其中一个，尝试同时登录的话好像是会把先登录的那个踢下线，在Tailscale控制台改名也没用。
 

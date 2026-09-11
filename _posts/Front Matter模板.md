@@ -6,7 +6,7 @@ tags: [标签1,标签2]     # TAG names should always be lowercase，但我用�
 ---
 
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+> Example line for prompt-tip.
 {: .prompt-tip }
 
 > Example line for prompt-info.

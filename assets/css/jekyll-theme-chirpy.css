@@ -1,0 +1,7 @@
+/* 强制 TOC 所有折叠的子目录始终展开 */
+#toc .collapse,
+#toc .collapsing {
+  display: block !important;
+  height: auto !important;
+  visibility: visible !important;
+}
